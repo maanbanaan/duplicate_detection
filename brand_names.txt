@@ -1,0 +1,167 @@
+1. Acer Inc.
+2. Admiral
+3. Aiwa
+4. Akai
+5. Alba
+6. Amstrad
+7. Andrea Electronics
+8. Apex Digital
+9. Apple Inc.
+10. Arcam
+11. Arise India
+12. AGA AB
+13. Audiovox
+14. AWA
+15. Baird
+16. Bang & Olufsen
+17. Beko
+18. BenQ
+19. Binatone
+20. Blaupunkt
+21. BPL Group
+22. Brionvega
+23. Bush
+24. Canadian General Electric (CGE)
+25. Changhong
+26. ChiMei
+27. Compal Electronics
+28. Conar Instruments
+29. Continental Edison
+30. Cossor
+31. Craig
+32. Curtis Mathes Corporation
+33. Daewoo
+34. Dell
+35. Delmonico International Corporation
+36. DuMont Laboratories
+37. Durabrand
+38. Dynatron
+39. English Electric
+40. English Electric Valve Company
+41. EKCO
+42. Electrohome
+43. Element Electronics
+44. Emerson Electric
+45. EMI
+46. Farnsworth
+47. Ferguson Electronics
+48. Ferranti
+49. Finlux (Vestel)
+50. Fisher Electronics
+51. Fujitsu
+52. Funai
+53. Geloso
+54. General Electric
+55. General Electric Company
+56. GoldStar
+57. Goodmans Industries
+58. Google
+59. Gradiente
+60. Grundig
+61. Haier
+62. Hallicrafters
+63. Hannspree
+64. Heath Company/Heathkit
+65. Hinari Domestic Appliances
+66. HMV
+67. Hisense
+68. Hitachi
+69. Hoffman Television (Cortron Ind)
+70. Itel
+71. ITT Corporation
+72. Jensen Loudspeakers
+73. JVC
+74. Kenmore
+75. Kent Television
+76. Kloss Video
+77. Kogan
+78. Kolster-Brandes
+79. Konka
+80. Lanix
+81. Le.com
+82. LG Electronics
+83. Loewe
+84. Luxor
+85. Magnavox
+86. Marantz
+87. Marconiphone
+88. Matsui
+89. Memorex
+90. Micromax
+91. Metz
+92. Mitsubishi
+93. Mivar
+94. Motorola
+95. Muntz (Howard Radio)
+96. Murphy Radio
+97. NEC
+98. Nokia
+99. Nordmende
+100. Onida
+101. Orion (Hungary)
+102. Orion (Japan)
+103. Packard Bell, Teledyne Packard Bell
+104. Panasonic (National)
+105. Pensonic
+106. Philco (Philco-Ford)
+107. Philips
+108. Pioneer
+109. Planar Systems
+110. Polaroid
+111. ProLine
+112. ProScan
+113. Pye
+114. Pyle USA
+115. Quasar
+116. RadioShack
+117. Rauland-Borg
+118. RCA
+119. Realistic
+120. Rediffusion
+121. SABA
+122. Salora
+123. Salora International
+124. Samsung
+125. Sansui
+126. Sanyo
+127. Schneider Electric
+128. Seiki Digital
+129. Sèleco
+130. Setchell Carlson
+131. Sharp
+132. Siemens
+133. Skyworth
+134. Sony
+135. Soyo
+136. Stromberg-Carlson
+137. Supersonic
+138. Sylvania
+139. Tandy
+140. Tatung Company
+141. TCL Corporation
+142. Technics
+143. TECO
+144. Teleavia
+145. Telefunken
+146. Teletronics
+147. Thomson SA
+148. Thorn Electrical Industries
+149. Thorn EMI
+150. Toshiba
+151. TPV Technology
+152. TP Vision
+153. Ultra
+154. United States Television Manufacturing Corp.
+155. Vestel
+156. Videocon
+157. Videoton
+158. Vizio
+159. Vu Televisions
+160. Walton
+161. Westinghouse Electric Corporation
+162. Westinghouse Electronics
+163. White-Westinghouse
+164. Xiaomi
+165. Zanussi
+166. Zenith Radio
+167. Zonda
